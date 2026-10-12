@@ -1,0 +1,75 @@
+{
+  "collections": [
+    {
+      "collection": "exp1_ashley_copy",
+      "root": "/Volumes/Stier_Lab/3. Wound_Type_Airbrush_Dremel_2022 (Ashley copy)/3. Wound_Type_Airbrush_Dremel_2022/Wound comparison study",
+      "files": 639,
+      "bytes": 4871494258,
+      "extensions": {
+        ".png": 320,
+        ".ai": 1,
+        ".psd": 1,
+        ".vsi": 221,
+        ".jpg": 96
+      }
+    },
+    {
+      "collection": "exp2_porites_originals",
+      "root": "/Volumes/Stier_Lab/Moorea 2025/Moorea 2025/Wound-Type 2025/Porites Wound Type",
+      "files": 2105,
+      "bytes": 12964434887,
+      "extensions": {
+        ".tif": 1052,
+        ".vsi": 1046,
+        ".avi": 7
+      }
+    },
+    {
+      "collection": "nas_manuscript_figures_2025",
+      "root": "/Volumes/Stier_Lab/Moorea 2025/Moorea 2025/Wound-Type 2025/Wound-Type manuscript Figures",
+      "files": 212,
+      "bytes": 2772672014,
+      "extensions": {
+        ".jpg": 1,
+        ".ai": 3,
+        ".svg": 1,
+        ".tif": 206,
+        ".pdf": 1
+      }
+    },
+    {
+      "collection": "nas_manuscript_figures_mirror",
+      "root": "/Volumes/Stier_Lab/coral-regeneration/Manuscripts/B_wound_type/figures",
+      "files": 72,
+      "bytes": 2682988039,
+      "extensions": {
+        ".pdf": 10,
+        ".ai": 22,
+        ".jpg": 28,
+        ".png": 2,
+        ".psd": 7,
+        ".svg": 3
+      }
+    },
+    {
+      "collection": "porites_tiff_exports_early",
+      "root": "/Volumes/Stier_Lab/coral_regeneration_photos_videos/Porites TIFS",
+      "files": 100,
+      "bytes": 631578839,
+      "extensions": {
+        ".tif": 100
+      }
+    },
+    {
+      "collection": "porites_early_microscope_aux",
+      "root": "/Volumes/Stier_Lab/coral_regeneration_photos_videos/Porites_Drem_2_D2_BF_3.2 zoom",
+      "files": 2,
+      "bytes": 5844865,
+      "extensions": {
+        ".txt": 1,
+        ".tif": 1
+      }
+    }
+  ],
+  "errors": []
+}

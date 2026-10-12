@@ -1,0 +1,235 @@
+{
+  "summary": [
+    {
+      "inventory": "drive_files.csv",
+      "project": "exp1_2022",
+      "category": "supporting_or_other",
+      "files": 4,
+      "bytes": 49913,
+      "extensions": {
+        "": 3,
+        ".docx": 1
+      },
+      "unique_available_drive_md5": 1
+    },
+    {
+      "inventory": "drive_files.csv",
+      "project": "exp1_2022",
+      "category": "derived_or_figure_candidate",
+      "files": 22,
+      "bytes": 2968971835,
+      "extensions": {
+        ".ai": 2,
+        ".png": 4,
+        ".psd": 2,
+        ".tif": 14
+      },
+      "unique_available_drive_md5": 18
+    },
+    {
+      "inventory": "drive_files.csv",
+      "project": "exp1_2022",
+      "category": "source_image_candidate",
+      "files": 1138,
+      "bytes": 6186876632,
+      "extensions": {
+        ".png": 636,
+        ".vsi": 310,
+        ".jpg": 192
+      },
+      "unique_available_drive_md5": 589
+    },
+    {
+      "inventory": "drive_files.csv",
+      "project": "exp1_2022",
+      "category": "other_experiment_island",
+      "files": 469,
+      "bytes": 527624983,
+      "extensions": {
+        ".tif": 83,
+        ".psd": 263,
+        ".png": 122,
+        ".lnk": 1
+      },
+      "unique_available_drive_md5": 137
+    },
+    {
+      "inventory": "drive_files.csv",
+      "project": "wound_type_2025",
+      "category": "supporting_or_other",
+      "files": 9,
+      "bytes": 65726657,
+      "extensions": {
+        "": 7,
+        ".key": 2
+      },
+      "unique_available_drive_md5": 2
+    },
+    {
+      "inventory": "drive_files.csv",
+      "project": "wound_type_2025",
+      "category": "source_image_candidate",
+      "files": 1,
+      "bytes": 980979,
+      "extensions": {
+        ".jpg": 1
+      },
+      "unique_available_drive_md5": 1
+    },
+    {
+      "inventory": "drive_files.csv",
+      "project": "wound_type_2025",
+      "category": "other_experiment_acropora_pulchra",
+      "files": 47,
+      "bytes": 281723473,
+      "extensions": {
+        ". pulchra microscope characterization - complete": 1,
+        "": 2,
+        ".tif": 44
+      },
+      "unique_available_drive_md5": 44
+    },
+    {
+      "inventory": "drive_files.csv",
+      "project": "histology_2025",
+      "category": "supporting_or_other",
+      "files": 4,
+      "bytes": 28771,
+      "extensions": {
+        "": 4
+      },
+      "unique_available_drive_md5": 0
+    },
+    {
+      "inventory": "drive_files.csv",
+      "project": "histology_2025",
+      "category": "source_image_candidate",
+      "files": 23,
+      "bytes": 32360283,
+      "extensions": {
+        ".jpg": 15,
+        ".heic": 8
+      },
+      "unique_available_drive_md5": 23
+    },
+    {
+      "inventory": "drive_files.csv",
+      "project": "final_figures",
+      "category": "derived_or_figure_candidate",
+      "files": 14,
+      "bytes": 334625509,
+      "extensions": {
+        ".ai": 7,
+        ".jpg": 7
+      },
+      "unique_available_drive_md5": 14
+    },
+    {
+      "inventory": "nas_files.csv",
+      "project": "exp1_2022",
+      "category": "supporting_or_other",
+      "files": 4,
+      "bytes": 1332,
+      "extensions": {
+        ".gdoc": 2,
+        ".md": 1,
+        ".gsheet": 1
+      },
+      "unique_available_drive_md5": null
+    },
+    {
+      "inventory": "nas_files.csv",
+      "project": "exp1_2022",
+      "category": "derived_or_figure_candidate",
+      "files": 18,
+      "bytes": 2948412159,
+      "extensions": {
+        ".ai": 2,
+        ".psd": 2,
+        ".tif": 14
+      },
+      "unique_available_drive_md5": null
+    },
+    {
+      "inventory": "nas_files.csv",
+      "project": "exp1_2022",
+      "category": "source_image_candidate",
+      "files": 7,
+      "bytes": 38969882,
+      "extensions": {
+        ".jpg": 4,
+        ".vsi": 3
+      },
+      "unique_available_drive_md5": null
+    },
+    {
+      "inventory": "nas_files.csv",
+      "project": "wound_type_2025",
+      "category": "supporting_or_other",
+      "files": 10,
+      "bytes": 63863328,
+      "extensions": {
+        ".gdoc": 4,
+        ".key": 2,
+        ".gsheet": 3,
+        ".md": 1
+      },
+      "unique_available_drive_md5": null
+    },
+    {
+      "inventory": "nas_files.csv",
+      "project": "wound_type_2025",
+      "category": "other_experiment_acropora_pulchra",
+      "files": 5,
+      "bytes": 11814152,
+      "extensions": {
+        ".gsheet": 1,
+        ".gdoc": 2,
+        ".tif": 2
+      },
+      "unique_available_drive_md5": null
+    },
+    {
+      "inventory": "nas_files.csv",
+      "project": "histology_2025",
+      "category": "supporting_or_other",
+      "files": 5,
+      "bytes": 1495,
+      "extensions": {
+        ".gdoc": 2,
+        ".md": 1,
+        ".gsheet": 2
+      },
+      "unique_available_drive_md5": null
+    },
+    {
+      "inventory": "nas_files.csv",
+      "project": "histology_2025",
+      "category": "source_image_candidate",
+      "files": 23,
+      "bytes": 32360283,
+      "extensions": {
+        ".jpg": 15,
+        ".heic": 8
+      },
+      "unique_available_drive_md5": null
+    }
+  ],
+  "errors": [],
+  "size_comparisons": 49,
+  "size_mismatches": [
+    {
+      "project": "wound_type_2025",
+      "relative_path": "data/A pulchra/pulchra top/pulchra top photos/Pulchra_TopCut_2c_BF_D13.tif",
+      "same_size": false,
+      "drive_id": "1t6IW_uCyMeGkhRRjrQLyvUMo12P_81q1",
+      "drive_md5": "1def938ddcd740eb604233477da9c5d3"
+    }
+  ],
+  "classification_notes": [
+    "HEIC files are image candidates; Island experiment and A pulchra are outside manuscript scope.",
+    "Source-image candidates include native files and exports; counts are not unique photographs.",
+    "Available Drive MD5s identify exact binary duplicates only, not alternate exports of one image.",
+    "Size comparisons are limited to literal matching paths and do not establish checksum identity."
+  ]
+}
